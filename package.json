@@ -4,12 +4,6 @@
   "description": "nou",
   "main": "bot.js",
   "author": "InzeTik",
-  
-    "scripts": {
-
-    "start": "node bot.js"
-
-  }
   "dependencies": {
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
     "winston": "^3.2.1"
